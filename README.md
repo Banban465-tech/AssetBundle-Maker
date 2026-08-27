@@ -13,7 +13,10 @@ what it shouldnt look like
 
 <img width="732" height="151" alt="bad" src="https://github.com/user-attachments/assets/383ba6fb-44c4-47ed-b603-6b2f58083ed7" />
 
-then it should export to the streaming assets folder!
+then it should export to the streaming assets folder after doing this right here
+
+<img width="432" height="767" alt="image (1)" src="https://github.com/user-attachments/assets/4901d334-6b10-422e-ac6e-ace80d5bd536" />
+
 # Requirements
 Unity 6000.3.12f1 (might work on other versions but idrk)
 uhhh nothing else
