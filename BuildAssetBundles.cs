@@ -14,7 +14,7 @@ public class BuildAssetBundles
         }
         
         BuildPipeline.BuildAssetBundles(assetBundleDirectory, 
-            BuildAssetBundleOptions.ForceRebuildAssetBundle, 
+            BuildAssetBundleOptions.None, 
             BuildTarget.StandaloneWindows64);
             
         UnityEngine.Debug.Log("Asset Bundles Built Successfully!");
